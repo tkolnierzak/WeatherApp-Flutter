@@ -13,3 +13,7 @@
 - How to use the TextField Widget to take user input.
 
 ![Home Screen](screenshots/1.PNG?raw=true "Home Screen")
+
+![City Name Screen](screenshots/2.PNG?raw=true "Home Screen")
+
+![Home Screen](screenshots/3.PNG?raw=true "Home Screen")
