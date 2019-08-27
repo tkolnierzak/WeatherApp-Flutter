@@ -12,10 +12,8 @@
 - How to use the Geolocator package to get live location data for both iOS and Android.
 - How to use the TextField Widget to take user input.
 
-![Home Screen](screenshots/1.PNG?raw=true "Home Screen" | width=100)
+<img src="screenshots/1.PNG" width="300">
 
-<img src="screenshots/1.PNG" width="100">
+<img src="screenshots/2.PNG" width="300">
 
-![City Name Screen](screenshots/2.PNG?raw=true "Home Screen" | width=100)
-
-![Home Screen](screenshots/3.PNG?raw=true "Home Screen" |width=100)
+<img src="screenshots/3.PNG" width="300">
