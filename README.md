@@ -1,6 +1,3 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
-
-
 # WeatherApp-Flutter ☁
 
 - How to use Dart to perform asynchronous tasks.
