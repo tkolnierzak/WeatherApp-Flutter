@@ -14,6 +14,8 @@
 
 ![Home Screen](screenshots/1.PNG?raw=true "Home Screen" | width=100)
 
+<img src="screenshots/1.PNG" width="100">
+
 ![City Name Screen](screenshots/2.PNG?raw=true "Home Screen" | width=100)
 
 ![Home Screen](screenshots/3.PNG?raw=true "Home Screen" |width=100)
